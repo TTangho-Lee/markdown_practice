@@ -9,4 +9,4 @@
 [네이버](www.naver.com)\
 [네이버](www.naver.com "naver")
 
->안녕하세요
+>**인터넷에 있는 말은 모두 진실이다**
